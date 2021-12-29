@@ -87,16 +87,15 @@
     display: block;
   }
   .isi h1{
-    font-size: 20px;
+    font-size: 25px;
     margin-left: 60px;
     position: absolute;
-    background-color: rgb(32, 221, 32);
       text-align: center;
     
   }
 
   .isi p{
-    font-size: 15px;
+    font-size: 20px;
     margin-left: 23px;
     
     

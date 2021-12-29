@@ -87,7 +87,7 @@
     display: block;
   }
   .isi h1{
-    font-size: 29px;
+    font-size: 20px;
     margin-left: 60px;
     position: absolute;
     background-color: rgb(32, 221, 32);
@@ -96,7 +96,7 @@
   }
 
   .isi p{
-    font-size: 25px;
+    font-size: 15px;
     margin-left: 23px;
     
     

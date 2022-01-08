@@ -4,13 +4,13 @@
         @media only screen and (max-width:800px)
 }
 .container{
-    width: 960px;
+    width: 1000px;
     margin: auto;
     background-color: rgb(227, 247, 207);
     height:1990px;
 }
 .judul img{
-    width: 960px;
+    width: 1000px;
     height: 300px;
 }
 .judul h1{
